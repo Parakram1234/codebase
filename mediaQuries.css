@@ -1,0 +1,123 @@
+@media screen and (min-width:320px) and (max-width:570px) 
+{
+    header
+    {
+        display: none !important;
+    }
+    #two
+    {
+        flex-direction: column-reverse;
+    }
+    .minone
+    {
+        width: unset !important;
+    }
+    #parentfour
+    {
+        flex-direction: column !important;
+    }
+    .ji1
+    {
+        width: unset !important;
+    }
+    .earth
+    {
+        flex-direction: column !important;
+
+    }
+    #three
+    {
+        flex-direction: column !important;
+
+    }
+    #parentfour
+    {
+        flex-direction: column !important;
+    }
+    .parent
+    {
+        flex-direction: column !important;
+    }
+    .right
+    {
+        flex-direction: column !important;
+    }
+    .work
+    {
+        flex-direction: column !important;
+    }
+    .us
+    {
+        flex-direction: column !important;
+    }
+    .face
+    {
+        flex-direction: column !important;
+    }
+    .para
+    {
+        flex-direction: column !important;
+    }
+    .earth1
+    {
+        width: unset !important;
+        height: unset !important;
+    }
+    .fan
+    {
+        width: unset !important;
+    }
+    .parentearth
+    {
+        height: unset !important;
+    }
+    .mintwo
+    {
+        width: unset !important;
+        height: unset !important;
+    }
+    .minone h1 {
+        font-size: 26px !important;
+    }
+    #minfour {
+        font-size: 18px;
+    }
+}
+@media screen and (min-width:570px) and (max-width:768px) 
+{
+    header
+    {
+        display: none !important;
+    }
+    #two
+    {
+        flex-direction: column-reverse;
+    }
+    .minone
+    {
+        width: unset !important;
+    }
+    .mintwo{
+        width: unset !important;
+        height: unset !important;
+    }
+    .paaji {
+        width: 120px;
+        margin: 9px;
+        height: 29px;
+    }
+    .ji1
+    {
+        width: unset !important;
+        margin: 6px;
+    }
+    .button 
+    {
+        font-size: 12px !important;
+    }
+    .earth1
+    {
+        width: unset !important;
+        height: unset !important; 
+    }
+}

@@ -1,0 +1,962 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+}
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 33px 20px; 
+    margin-top: 2px;
+}
+#one
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#one img
+{
+    width: 170px;
+}
+#minione ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#minione ul li a
+{
+    margin-right: 2.5rem;
+    text-decoration: none ;
+    font-size: 18px;
+    color: black;
+    padding: 1rem;
+    font-weight: 500;
+}
+#minione ul li 
+{
+    list-style: none;
+}
+.hire a
+{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 40px;
+    padding: 5px 19px;
+}
+#two
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mintwo
+{
+    width: 460px;
+    /* height: 150px; */
+}
+.mintwo img
+{
+    width: 100%;
+    height: 100%;
+}
+.hireus a
+{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 40px;
+    padding: 5px 19px;
+    padding-top: 5px;
+    margin-top: 37px;
+}
+.hireus
+{
+    margin: 20px 0;
+}
+.minone
+{
+    width: 50%;
+    padding: 15px;
+    margin: 5px;
+}
+.minone h1
+{
+   font-size: 58px;
+}
+.minone p
+{
+   font-size: 18px;
+}
+#parentthree
+{
+    text-align: center;
+    background: #ECEEF1;
+    padding: 2px 0px 75px 0px;
+    margin-top: 90px;
+}
+#three
+{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+} 
+.paaji
+{
+    width: 180px;
+    height: 60px;
+    margin:  40px 70px 0px;
+}
+.paaji img
+{
+    width: 100%;
+    height: 100%;
+}
+#minthree h2
+{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 100px;
+}
+#parentfour
+{
+    display: flex;
+    justify-content: center;
+    align-items: left; 
+}
+.ji1
+{
+    text-align: center;
+    padding: 50px;
+    border: 1px solid grey;
+    margin: 13px;
+    border-radius: 25px;
+    width: 23%;
+}
+#minfour
+{
+    text-align: center;
+    font-size: 28px;
+    margin: 65px;
+}
+.ji1 h2,p
+{
+    margin: 6px;
+}
+.button span
+{
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
+.button1 span
+{
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
+.button 
+{
+    margin: 3px;
+    margin-top: 15px;
+}
+.button1
+{
+    margin: 17px;   
+}
+.earth
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.commit
+{
+    width: 80px;
+    height: 56px;
+    margin: auto;
+}
+.commit img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.earth1
+{
+    background-color: #000000b0;
+    color: wheat;
+    border: 1px solid #000000b0;
+    border-radius: 25px;
+    padding: 24px;
+    margin: 35px;
+    text-align: center;
+    width: 395px;
+    height: 300px;
+}
+.earth1 h2
+{
+    margin: 2px;
+    font-size: 22px;
+    margin-top: 31px;
+}
+.earth1 p
+{
+    margin-top: 28px;
+    font-size: 15px;
+}
+.parentearth
+{
+    background-image: url(https://media.istockphoto.com/id/1271122894/photo/planet-earth-from-the-space-at-night.jpg?s=1024x1024&w=is&k=20&c=q9vGp4fjMWTzYfUH4DFSyS6RXt4PZ2mYmXtC4J-3iq4=);
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 590px;
+    margin: 100px 0px 0px;
+}
+.parentearth h1
+{
+    text-align: center;
+    margin: 2px;
+    font-size: 45px;
+    padding-top: 53px;
+    color: white;
+}
+.top
+{
+    background-color: #f1f1f1; 
+    margin-bottom: 100px;
+}
+.top h1
+{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 900;
+    padding: 85px 20px 30px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.service{
+    display: flex;
+    /* justify-content: center; */
+    margin-left: 2rem;
+    align-items: center;
+    margin-top: 25px;
+}
+.item p
+{
+    padding: 25px 65px 20px;
+    font-size: 18px;
+}
+.daksh img 
+{
+    width: 100%;  
+    height: 100%;
+}
+.daksh
+{
+    width: 52px;
+    height: 52px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 15px solid white;
+    background-color: white;
+}
+.service h2
+{
+    font-size: 22px;
+    margin-left: 15px;
+}
+.right
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+}
+.work
+{
+    display: flex;
+    justify-content: start ;
+    align-items: center;
+}
+.fan img
+{
+    width: 100%;
+    height: 100%;
+}
+.fan
+{
+    width: 860px;
+    margin: 4px 30px;
+}
+.fan h1 {
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.work h2
+{
+    font-size: 22px;
+    width: 40px;
+    height: 40px;
+    border: 2px solid purple;
+    border-radius: 50%;
+    color: purple;
+    padding: 1px 0px 17px 13px;
+}
+.hand p
+{
+    padding-left: 50px;
+    width: 82%;
+}
+.work h3
+{
+    font-size: 27px;
+    padding-left: 12px;
+}
+.hireme a{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 40px;
+    padding: 5px 19px;
+    padding-top: 5px;
+    margin-top: 37px; 
+}
+.hireme
+{
+    padding-left: 20px;
+    margin-top: 22px;
+}
+.how
+{
+    margin-bottom: 100px;
+}
+.join
+{
+    background-color: blue;
+    text-align: center;
+    height: 481px;
+}
+.us
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 82px;
+}
+.us span
+{
+    margin: 0px 31px;
+    font-size: 20px;
+}
+.apply
+{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 40px;
+    padding: 5px 19px;
+    padding-top: 5px;
+    margin-top: 37px; 
+}
+.job
+{
+    background-color: white;
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 40px;
+    padding: 2px 16px;
+    padding-top: 5px;
+    margin-top: 37px;
+}
+.join h1
+{
+    padding-top: 109px;
+    font-size: 40px;
+    color: white;
+}
+.join p
+{
+    color: white;
+    font-size: 16px;
+    margin: 5px;
+}
+.face
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 58px 181px 0px; 
+    color: white;
+    height: 10rem;
+    
+}
+
+.insta h2
+{
+    width: 170px;
+    font-size: 32px;
+}
+.snap ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.snap ul li a
+{
+    margin-right: 2.5rem;
+    text-decoration: none ;
+    font-size: 18px;
+    color: black;
+    padding: 1rem;
+    font-weight: 500;
+}
+.snap ul li 
+{
+    list-style: none;
+    padding: 22px 14px 4px;
+    font-size: 19px;
+    font-weight: 600;
+}
+.end
+{
+    background-color: rgb(5, 5, 202);
+    padding-bottom: 5rem;
+}
+.icon
+{
+    padding: 17px 17px 0px;
+    font-size: 29px;
+    padding-left: 168px;
+    color: white;
+}
+.para
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.para p
+{
+    padding: 0px 136px 0px 157px;
+    color: white;
+}
+/* services */
+.our h1
+{
+    text-align: center;
+    font-size: 33px;
+    padding: 43px;
+    margin-bottom: 20px;
+}
+.stable img 
+{
+    width: 100%;
+    height: 100%;
+}
+.stable 
+{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 1px black solid;
+    padding: 3px;
+    position: absolute;
+    left: 151px;
+    top: -53px;
+    background-color: white;
+}
+.team
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px ;
+}
+.rare
+{
+    text-align: center;
+    border: 1px solid black;
+    margin: 20px 10px ;
+    position: relative;
+    padding: 30px;
+    height: 250px;
+    border-radius: 20px;
+    width: 30%;
+}
+.rare h2
+{
+    margin: 10px;
+    font-size: 20px;
+    margin-top: 35px;
+}
+.rare p
+{
+    margin: 9px;
+    font-size: 16px;
+}
+.stable1 img 
+{
+    width: 100%;
+    height: 100%;
+}
+.stable1
+{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 1px black solid;
+    padding: 3px;
+    position: absolute;
+    left: 151px;
+    top: -53px;
+    background-color: white;
+}
+.team1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+.rare1
+{
+    text-align: center;
+    border: 1px solid black;
+    margin: 20px 10px ;
+    position: relative;
+    padding: 30px;
+    height: 250px;
+    border-radius: 20px;
+    width: 30%;
+}
+.rare1 h2
+{
+    margin: 10px;
+    font-size: 20px;
+    margin-top: 35px;
+}
+.rare1 p
+{
+    margin: 11px;
+    font-size: 16px;
+}
+.depth img
+{
+    width: 100%;
+    height: 100%;
+}
+.depth
+{
+    background-color: blue;
+    height: 49rem;
+    padding: 7px 140px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.have {
+    text-align: center;
+    margin: 20px;
+}
+.let a
+{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 40px;
+    padding: 5px 19px;
+    padding-top: 5px;
+    margin-top: 37px; 
+}
+.let
+{
+    padding-left: 20px;
+    margin-top: 22px;
+}
+.have p {
+    margin: 6px;
+    font-size: 19px;
+}
+/* podcasts */
+.take
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(230, 222, 222);
+    margin-bottom: 55px;
+    margin-top: 50px;
+    height: 678px;
+}
+.great img{
+    width: 610px;
+    height: 616px;
+}
+.look h1
+{
+    font-size: 41px;
+    margin: 43px 80px 10px;
+}
+.look p {
+    margin-left: 80px;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+.latest a
+{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px 7px;
+    padding-top: 5px;
+    margin-top: 37px; 
+    margin-left: 78px;
+}
+.bus
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cast
+{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.come img
+{
+    width: 100%;
+    height: 100%;
+}
+.come
+{
+    width: 350px;
+    height: 374px;
+}
+.soon {
+    width: 394px;
+}
+.come h2
+{
+    margin-top: 8px;
+    margin-bottom: 6px;
+}
+.come p 
+{
+    font-size: 14px;
+}
+.cast h1
+{
+    font-size: 48px;
+    margin: 40px;
+}
+.ness{
+    margin-top: 15rem;
+    text-align: center;
+    background-color: rgb(218, 213, 213);
+    padding-bottom: 160px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+.ness h1 
+{
+    font-size: 65px;
+    margin: 10px;
+}
+.ness >p {
+    width: 848px;
+    margin-left: 243px;
+    margin-bottom: 20px;
+}
+.paid
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.online img{
+    width: 100%;
+    height: 100%;
+}
+.online{
+    width: 17rem;
+    height:9rem;
+}
+.online p{ 
+    padding-right: 108px;
+}
+.online h2
+{
+    font-size: 18px;
+    padding: 1px 16px;
+} 
+.funel{
+    text-align: center;
+    padding-bottom: 160px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+.funel h1 
+{
+    font-size: 65px;
+    margin: 10px;
+}
+.funel >p {
+    width: 848px;
+    margin-left: 243px;
+    margin-bottom: 20px;
+}
+.bpaid
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.bonline img{
+    width: 100%;
+    height: 100%;
+}
+.bonline{
+    width: 17rem;
+    height:9rem;
+}
+.bonline p{ 
+    padding-right: 108px;
+}
+.bonline h2
+{
+    font-size: 18px;
+    padding: 1px 16px;
+}
+/* contactus */
+.cont-heading1 h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.cont-background {
+    width: 100%;
+    height: 680px;
+    background-color: #6032ff;
+}
+
+.cont-background h1 {
+    font-size: 36px;
+    padding: 40px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.index {
+    display: flex;
+}
+
+.index1 {
+    margin-left: 115px;
+    margin-top: 46px;
+}
+
+.index1 span {
+    color: #f00;
+}
+
+.index2 {
+    margin-left: 10px;
+    margin-top: 46px;
+}
+
+.index2 span {
+    color: #f00;
+}
+
+.cont-msg {
+    margin-left: 115px;
+}
+
+.cont-msg span {
+    color: #f00;
+}
+
+.cont-msg textarea {
+    outline: 0;
+}
+
+label {
+    color: #fff;
+
+
+}
+
+input {
+    width: 596px;
+    height: 46px;
+    font-size: 16px;
+    font-weight: lighter;
+    padding: 10px 12px;
+    border: #fff solid 2px;
+    border-radius: 2px;
+    outline: 0;
+}
+
+.cont-msg button {
+    font-size: 18px;
+    padding: 8px 16px;
+}
+
+.cont-boxes {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 170px 0px 20px;
+}
+
+.cont-boxes .box {
+    width: 570px;
+    height: 180px;
+    border: solid 3px #eeeeee;
+    border-radius: 30px;
+    position: relative;
+
+}
+
+.cont-boxes .box img {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    bottom: 102px;
+    background-color: #fff;
+    border: #fff solid 15px;
+    left: 202px;
+}
+
+.cont-boxes .box h3 {
+    margin-top: 130px;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.cont h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.cont a {
+
+    text-decoration: none;
+
+}
+
+.cont a span {
+    color: #fff;
+    background-color: #6032ff;
+    font: 600;
+    font-size: 18px;
+    padding: 12px 40px;
+    border-radius: 30px;
+
+}
+
+.cont li {
+    list-style: none;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.fix-icon {
+    text-align: start;
+    font-size: 30px;
+    position: fixed;
+    color: #fff;
+}
+
+
+
+.fix-icon a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.facebook span{
+    transition: all 1s ease;
+}
+
+.twitter span{
+    transition: all 1s ease;
+}
+
+.linkedin span{
+    transition: all 1s ease;
+}
+
+.facebook:hover span {
+    padding: 0px 10px;
+}
+
+.twitter:hover span {
+    padding: 0px 11px;
+}
+
+.linkedin:hover span {
+    padding: 0px 10px;
+}
+
+
+.facebook {
+    background-color: #4267b2;
+    padding: 19px;
+    position: absolute;
+    top: 161px;
+    font-size: 15px;
+}
+
+.twitter {
+    background-color: #000;
+    padding: 16.25px;
+    position: absolute;
+    top: 216px;
+    font-size: 15px;
+}
+
+.linkedin {
+    background-color: #0277b5;
+    padding: 17.1px;
+    position: absolute;
+    top: 266px;
+    font-size: 15px;
+}
+
+.sun {
+    position: relative;
+}
